@@ -7,12 +7,28 @@
     font-family: "Fira Sans", serif;
     font-weight: 700;
     font-style: normal;
+
+    background: rgb(245, 245, 245);
   }
 
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+/* fontssss */
 
 *{
     margin: 0px;
-    padding: 0px;      
+    padding: 0px; 
+    font-family: "Fira Sans", serif;     
  
 }
 
@@ -108,4 +124,56 @@
 
     width: 474.03px;
     height: 400px;
+}
+
+/*  Pillars of "Bangladesh */
+
+.pillar-of-bd > h1{
+    font-size: 35px;
+}
+.pillar-of-bd{
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 50px;
+}
+
+.pillar-cards{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    /* align-items: center; */
+
+    margin-top: 30px;
+    margin-bottom: 20px;
+    gap: 24px;
+
+
+    
+}
+.single-pillar-card{
+
+    padding: 30px;
+
+    /* gap: 35px; */
+    background-color: #ffffff;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+
+    width: 302px;
+    height: 244px;
+
+
+}
+.pillar-img{
+
+   /* margin-top: 20px;  */
+}
+
+.pillar-card-heading{
+
 }

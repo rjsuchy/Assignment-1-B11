@@ -186,6 +186,105 @@
 
 } */
 
+
+
+
+
+/* <!-- ------The Vision of Future  ---- --> */
+
+.vision-of-future {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    margin-left:160px ;
+    margin-right: 160px;
+    margin-top: 30px;
+}
+
+.vision-title{
+    font-size: 35px;
+}
+.vision-title-and-description{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.vision-card-title{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.vision-All-cards{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.vision-singl-card-design{
+   padding: 20px;
+    border-radius: 10px;
+   
+   gap: 12px;
+}
+.vision-card-button{
+
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 0 ;
+
+    width: 120px;
+    height: 35px;
+    margin-top: 20px;
+}
+
+.btn1{
+    background-color: rgb(84, 144, 245)
+}
+.btn2{
+    background-color: rgb(9, 161, 92)
+
+}
+
+.btn3{
+    background-color:rgb(255, 194, 57)
+
+}
+
+.vision-caard-1{
+    background: rgba(84, 144, 245, 0.2);
+}
+.vision-caard-2{
+    background: rgb(198, 228, 214);
+}
+
+.vision-caard-3{
+   background-color:  rgb(247, 235, 207);
+}
+
+
+
+
+/* <!--  ------ Dr. Muhammad Yunus ----- --> */
+
+
+
+
+
+
+
+/* <!--  -----Your Opinion Matters----- --> */
+
+
+
+
+
+
 /* -----Recent news stylss---*/
 
 .Recent-news-full{

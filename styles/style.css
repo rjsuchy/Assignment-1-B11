@@ -324,8 +324,62 @@
 
 /* <!--  -----Your Opinion Matters----- --> */
 
+.your-opinion-matters{
+    margin-left: 160px;
+    margin-right: 160px;
+   
+}
 
+.opinion-matter-title{
+    font-size: 35px;
+}
 
+.table-head{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: center;
+    background-color:rgb(198, 228, 214);
+    
+
+    height: 35px;
+    padding-top: 20px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.table-data{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+
+    padding-left: 20px;
+    padding-right: 50px;
+
+    height: 40px;
+}
+
+.table-body-full{
+    border: 1px solid grey ;
+    margin-top: 12px;
+}
+
+.tbl-paragrph{
+    margin-top: 10px;
+}
+
+.tbl-btn{
+    background-color: rgb(198, 228, 214);
+    border-radius: 5px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+
+    margin-top: 5px;
+}
 
 
 

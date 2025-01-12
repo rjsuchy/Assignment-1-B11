@@ -186,11 +186,75 @@
 
 } */
 
+/* -----Recent news stylss---*/
+
+.Recent-news-full{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    margin-left:160px ;
+    margin-right: 160px;
+    margin-top: 30px;
+
+}
+
+.recentnews-title-and-disciption{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    /* text-align: center; */
+}
+
+.rcent-news-title{
+    font-size: 35px;
+}
+.satelite-card-main{
+    display: flex;
+    gap: 24px;
+
+    background-color: #FFFFFF;
+    padding: 24px;
+    border-radius: 10px;
+}
+
+.satelite-card-text-contents{
+    
+    flex-direction: column;
+    gap: 24px;
+
+}
+
+.satelite-img{
+    border-radius: 10px;
+}
+
+.alzajeera-icon{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.news-description{
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+.recent-news-button{
+
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 0 ;
+
+    width: 130px;
+    height: 45px;
+}
 
 
-
-
-
+/* -----Recent news stylss---*/
 
 /* Donates t0day styless */
 
